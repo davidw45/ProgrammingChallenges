@@ -1,0 +1,23 @@
+-- Question 1
+
+SELECT count(impression) AS impSum
+FROM marketing_data
+GROUP BY datetime
+
+-- Question 2
+
+
+
+-- Question 3
+
+
+
+-- Question 4
+
+
+
+-- Question 5
+
+
+
+
